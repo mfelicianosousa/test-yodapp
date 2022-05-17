@@ -4,6 +4,8 @@ Documentation       Arquivo Principal do projeto
 Library     Browser
 Library     String
 
+Resource    actions.robot
+
 *Keywords*
 
 Start Session
