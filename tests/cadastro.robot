@@ -34,7 +34,7 @@ Email incorreto
     Fill User Form      ${user}                       
     Check Accept Comunications
     Submit User Form
-    Toast Message Should Be     Oops! O email é incorreto
+    Toast Message Should Be     Oops! O email é inválido
 
 
 

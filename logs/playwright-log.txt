@@ -1,144 +1,278 @@
-{"level":30,"time":"2022-05-17T17:02:44.719Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Listening on 50131"}
-{"level":30,"time":"2022-05-17T17:02:45.097Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:45.098Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:45.100Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:45.101Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:45.104Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2022-05-17T17:02:46.541Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method newBrowser"}
-{"level":30,"time":"2022-05-17T17:02:46.546Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method newPage"}
-{"level":30,"time":"2022-05-17T17:02:46.547Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2022-05-17T17:02:46.573Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
-{"level":30,"time":"2022-05-17T17:02:47.052Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Video path: undefined"}
-{"level":30,"time":"2022-05-17T17:02:47.052Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
-{"level":30,"time":"2022-05-17T17:02:49.835Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method newPage"}
-{"level":30,"time":"2022-05-17T17:02:49.843Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:02:49.844Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with text=Novo in page."}
-{"level":30,"time":"2022-05-17T17:02:50.017Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:02:50.021Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-05-17T17:02:50.021Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.card-header-title >> text=Cadastrar novo usuário in page."}
-{"level":30,"time":"2022-05-17T17:02:50.337Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2022-05-17T17:02:50.342Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:50.342Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"nome\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:50.387Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:50.390Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:50.391Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"email\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:50.434Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:50.438Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:50.439Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.ordem select in page."}
-{"level":30,"time":"2022-05-17T17:02:50.563Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:50.569Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:02:50.569Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"Data de nascimento\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:50.732Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:02:50.736Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:50.736Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[1] in page."}
-{"level":30,"time":"2022-05-17T17:02:51.023Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:51.027Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:51.027Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[2] in page."}
-{"level":30,"time":"2022-05-17T17:02:52.823Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:52.828Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:02:52.828Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(@class,\"datepicker-cell\")]//span[text()=\"20\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:52.885Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:02:52.889Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:52.890Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with id=insta in page."}
-{"level":30,"time":"2022-05-17T17:02:52.930Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:52.933Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:02:52.933Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//input[@value=\"Cavaleiro Jedi\"]/..//span[@class=\"check\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:53.009Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:02:53.014Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:02:53.014Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//input[@name=\"comunications\"]/../span[@class=\"check\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:53.123Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:02:53.127Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:02:53.127Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2022-05-17T17:02:53.340Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:02:53.345Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-05-17T17:02:53.345Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div >> text=Usuário cadastrado com sucesso! in page."}
-{"level":30,"time":"2022-05-17T17:02:53.353Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2022-05-17T17:02:54.360Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method takeScreenshot"}
-{"level":30,"time":"2022-05-17T17:02:54.631Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method takeScreenshot"}
-{"level":30,"time":"2022-05-17T17:02:54.634Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:54.642Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:54.645Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
-{"level":30,"time":"2022-05-17T17:02:54.645Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changing current active page"}
-{"level":30,"time":"2022-05-17T17:02:54.645Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
-{"level":30,"time":"2022-05-17T17:02:54.651Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:54.653Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:54.657Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-05-17T17:02:54.658Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-05-17T17:02:54.659Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-05-17T17:02:54.660Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-05-17T17:02:54.663Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
-{"level":30,"time":"2022-05-17T17:02:54.663Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changing current active page"}
-{"level":30,"time":"2022-05-17T17:02:54.663Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
-{"level":30,"time":"2022-05-17T17:02:54.665Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method closeContext"}
-{"level":30,"time":"2022-05-17T17:02:54.747Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method closeContext"}
-{"level":30,"time":"2022-05-17T17:02:54.753Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:54.753Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:02:54.759Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2022-05-17T17:02:56.197Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method newBrowser"}
-{"level":30,"time":"2022-05-17T17:02:56.200Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method newPage"}
-{"level":30,"time":"2022-05-17T17:02:56.200Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2022-05-17T17:02:56.243Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
-{"level":30,"time":"2022-05-17T17:02:56.765Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Video path: undefined"}
-{"level":30,"time":"2022-05-17T17:02:56.765Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
-{"level":30,"time":"2022-05-17T17:02:58.664Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method newPage"}
-{"level":30,"time":"2022-05-17T17:02:58.670Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:02:58.670Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with text=Novo in page."}
-{"level":30,"time":"2022-05-17T17:02:58.812Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:02:58.814Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-05-17T17:02:58.814Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.card-header-title >> text=Cadastrar novo usuário in page."}
-{"level":30,"time":"2022-05-17T17:02:59.142Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2022-05-17T17:02:59.147Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:59.147Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"nome\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:59.183Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:59.186Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:59.187Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"email\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:59.222Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
-{"level":30,"time":"2022-05-17T17:02:59.225Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:59.225Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.ordem select in page."}
-{"level":30,"time":"2022-05-17T17:02:59.316Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:59.327Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:02:59.327Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"Data de nascimento\"] in page."}
-{"level":30,"time":"2022-05-17T17:02:59.546Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:02:59.549Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:59.549Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[1] in page."}
-{"level":30,"time":"2022-05-17T17:02:59.831Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:59.834Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:02:59.834Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[2] in page."}
-{"level":30,"time":"2022-05-17T17:03:01.681Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
-{"level":30,"time":"2022-05-17T17:03:01.766Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:03:01.766Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(@class,\"datepicker-cell\")]//span[text()=\"15\"] in page."}
-{"level":30,"time":"2022-05-17T17:03:01.836Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:03:01.839Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-05-17T17:03:01.839Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with id=insta in page."}
-{"level":30,"time":"2022-05-17T17:03:01.884Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
-{"level":30,"time":"2022-05-17T17:03:01.888Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:03:01.888Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//input[@name=\"comunications\"]/../span[@class=\"check\"] in page."}
-{"level":30,"time":"2022-05-17T17:03:02.044Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:03:02.047Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
-{"level":30,"time":"2022-05-17T17:03:02.047Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2022-05-17T17:03:02.111Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
-{"level":30,"time":"2022-05-17T17:03:02.115Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-05-17T17:03:02.115Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div >> text=Oops! O email é incorreto in page."}
-{"level":30,"time":"2022-05-17T17:03:02.129Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2022-05-17T17:03:02.132Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method takeScreenshot"}
-{"level":30,"time":"2022-05-17T17:03:02.457Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method takeScreenshot"}
-{"level":30,"time":"2022-05-17T17:03:02.461Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:03:02.468Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:03:02.471Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
-{"level":30,"time":"2022-05-17T17:03:02.471Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changing current active page"}
-{"level":30,"time":"2022-05-17T17:03:02.471Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
-{"level":30,"time":"2022-05-17T17:03:02.477Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:03:02.480Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:03:02.481Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-05-17T17:03:02.481Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-05-17T17:03:02.483Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-05-17T17:03:02.483Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-05-17T17:03:02.488Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
-{"level":30,"time":"2022-05-17T17:03:02.489Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changing current active page"}
-{"level":30,"time":"2022-05-17T17:03:02.489Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
-{"level":30,"time":"2022-05-17T17:03:02.490Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method closeContext"}
-{"level":30,"time":"2022-05-17T17:03:02.561Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method closeContext"}
-{"level":30,"time":"2022-05-17T17:03:02.565Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:03:02.566Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-05-17T17:03:02.658Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2022-05-17T17:03:03.073Z","pid":17092,"hostname":"DEVSYSTEMS","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2022-05-17T17:16:05.430Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Listening on 51850"}
+{"level":30,"time":"2022-05-17T17:16:05.876Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:05.877Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:05.881Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:05.881Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:05.884Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-17T17:16:07.397Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-17T17:16:07.402Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-17T17:16:07.402Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-17T17:16:07.420Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
+{"level":30,"time":"2022-05-17T17:16:07.864Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-17T17:16:07.864Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
+{"level":30,"time":"2022-05-17T17:16:10.155Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-17T17:16:10.162Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:10.163Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with text=Novo in page."}
+{"level":30,"time":"2022-05-17T17:16:10.339Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:10.343Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-17T17:16:10.343Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.card-header-title >> text=Cadastrar novo usuário in page."}
+{"level":30,"time":"2022-05-17T17:16:10.618Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-17T17:16:10.623Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:10.623Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"nome\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:10.657Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:10.660Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:10.660Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"email\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:10.698Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:10.701Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:10.702Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.ordem select in page."}
+{"level":30,"time":"2022-05-17T17:16:10.802Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:10.807Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:10.807Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"Data de nascimento\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:10.982Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:10.985Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:10.985Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[1] in page."}
+{"level":30,"time":"2022-05-17T17:16:11.243Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:11.246Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:11.246Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[2] in page."}
+{"level":30,"time":"2022-05-17T17:16:12.906Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:12.911Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:12.911Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(@class,\"datepicker-cell\")]//span[text()=\"20\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:12.966Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:12.970Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:12.970Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with id=insta in page."}
+{"level":30,"time":"2022-05-17T17:16:13.010Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:13.013Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:13.013Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//input[@value=\"Cavaleiro Jedi\"]/..//span[@class=\"check\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:13.065Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:13.068Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:13.068Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//input[@name=\"comunications\"]/../span[@class=\"check\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:13.156Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:13.161Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:13.161Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2022-05-17T17:16:13.356Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:13.362Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-17T17:16:13.362Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:13.382Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-17T17:16:13.385Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:13.385Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:13.544Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Usuário cadastrado com sucesso!"}
+{"level":30,"time":"2022-05-17T17:16:13.544Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:14.563Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-17T17:16:14.819Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-17T17:16:14.821Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:14.824Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:14.828Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
+{"level":30,"time":"2022-05-17T17:16:14.828Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-17T17:16:14.828Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
+{"level":30,"time":"2022-05-17T17:16:14.833Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:14.838Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:14.842Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-17T17:16:14.843Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-17T17:16:14.845Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-17T17:16:14.845Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-17T17:16:14.849Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
+{"level":30,"time":"2022-05-17T17:16:14.849Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-17T17:16:14.849Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
+{"level":30,"time":"2022-05-17T17:16:14.851Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-17T17:16:14.915Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-17T17:16:14.919Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:14.919Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:14.924Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-17T17:16:16.434Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-17T17:16:16.437Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-17T17:16:16.437Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-17T17:16:16.489Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
+{"level":30,"time":"2022-05-17T17:16:17.116Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-17T17:16:17.116Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
+{"level":30,"time":"2022-05-17T17:16:19.047Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-17T17:16:19.052Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:19.053Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with text=Novo in page."}
+{"level":30,"time":"2022-05-17T17:16:19.200Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:19.203Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-17T17:16:19.204Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.card-header-title >> text=Cadastrar novo usuário in page."}
+{"level":30,"time":"2022-05-17T17:16:19.512Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-17T17:16:19.516Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:19.516Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"nome\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:19.559Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:19.562Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:19.562Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"email\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:19.609Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:19.613Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:19.613Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.ordem select in page."}
+{"level":30,"time":"2022-05-17T17:16:19.726Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:19.730Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:19.731Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=input[name=\"Data de nascimento\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:19.928Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:19.931Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:19.932Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[1] in page."}
+{"level":30,"time":"2022-05-17T17:16:20.185Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:20.189Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:20.189Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[2] in page."}
+{"level":30,"time":"2022-05-17T17:16:21.944Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-17T17:16:21.949Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:21.949Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(@class,\"datepicker-cell\")]//span[text()=\"15\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:22.010Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:22.013Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:22.014Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with id=insta in page."}
+{"level":30,"time":"2022-05-17T17:16:22.049Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-17T17:16:22.051Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:22.051Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with xpath=//input[@name=\"comunications\"]/../span[@class=\"check\"] in page."}
+{"level":30,"time":"2022-05-17T17:16:22.209Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:22.213Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-17T17:16:22.213Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2022-05-17T17:16:22.281Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method click"}
+{"level":30,"time":"2022-05-17T17:16:22.285Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-17T17:16:22.285Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.298Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-17T17:16:22.300Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.300Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.319Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.320Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.340Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.340Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.358Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.358Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.371Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.371Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.390Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.391Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.417Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.417Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.432Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.432Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.448Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.448Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.466Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.466Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.493Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.493Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.510Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.510Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.524Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.524Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.537Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.537Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.556Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.556Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.569Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.569Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.588Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.588Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.601Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.601Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.619Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.619Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.635Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.635Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.650Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.650Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.666Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.666Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.682Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.682Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.697Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.698Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.714Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.714Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.729Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.730Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.746Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.746Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.763Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.763Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.778Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.778Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.793Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.793Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.808Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.808Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.821Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.821Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.840Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.840Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.853Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.853Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.871Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.871Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.884Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.884Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.902Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.902Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.915Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.915Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.934Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.934Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.949Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.949Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.966Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.966Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:22.979Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:22.979Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.998Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:22.998Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.011Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.011Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.030Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.030Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.045Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.046Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.060Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.060Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.073Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.073Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.092Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.092Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.105Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.105Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.124Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.124Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.136Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.136Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.155Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.155Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.169Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.169Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.186Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.186Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.198Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.198Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.218Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.218Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.232Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.232Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.250Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.250Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.263Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.263Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.282Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.282Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.295Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.295Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.313Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.313Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2022-05-17T17:16:23.327Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Retrieved text for element css=.toast div containing Oops! O email é incorreto."}
+{"level":30,"time":"2022-05-17T17:16:23.327Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-17T17:16:23.330Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-17T17:16:23.602Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-17T17:16:23.614Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-17T17:16:23.749Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-17T17:16:23.754Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:23.762Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:23.765Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
+{"level":30,"time":"2022-05-17T17:16:23.765Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-17T17:16:23.765Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
+{"level":30,"time":"2022-05-17T17:16:23.773Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:23.775Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:23.777Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-17T17:16:23.777Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-17T17:16:23.778Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-17T17:16:23.778Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-17T17:16:23.780Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active context"}
+{"level":30,"time":"2022-05-17T17:16:23.781Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-17T17:16:23.781Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Changed active page"}
+{"level":30,"time":"2022-05-17T17:16:23.782Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-17T17:16:23.848Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-17T17:16:23.851Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:23.851Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-17T17:16:23.951Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-05-17T17:16:24.365Z","pid":24372,"hostname":"DEVSYSTEMS","msg":"End of node method closeAllBrowsers"}

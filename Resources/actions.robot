@@ -58,5 +58,7 @@ Submit User Form
 Toast Message Should Be
     [Arguments]     ${expected_message}
 
-    Wait For Elements State     css=.toast div >> text=${expected_message}
-    ...                         visible     5
+    ${element}      Set Variable    css=.toast div    
+
+    Wait For Elements State     ${element}  visible     5
+    Get Text                    ${element} div  equal       ${expected_message}
