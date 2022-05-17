@@ -14,20 +14,16 @@ Go To User Form
     ...     visible     5
 
 Fill User Form
-    [Arguments]     ${name}     ${email}    ${ordem}    ${birthDate}    ${instagram}
+    [Arguments]     ${user}
  # {Quando) preencho esse formulário com os dados do Mestre Yoda
-    Fill Text   css=input[name="nome"]       ${name}
-    Fill Text   css=input[name="email"]     ${email}
+    Fill Text   css=input[name="nome"]       ${user}[name]
+    Fill Text   css=input[name="email"]     ${user}[email]
   
-    Select Options By   css=.ordem select   text   ${ordem}
+    Select Options By   css=.ordem select   text   ${user}[ordem]
 
-    Select Birth Date   ${birthDate}
+    Select Birth Date   ${user}[birthDate]
 
-    Fill Text   id=insta    ${instagram}
-
-   
-
-    
+    Fill Text   id=insta    ${user}[instagram]
 
 Select Jedi
     [Arguments]     ${tipoJedi}
