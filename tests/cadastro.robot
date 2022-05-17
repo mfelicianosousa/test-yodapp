@@ -21,6 +21,8 @@ Deve cadastrar um novo personagem
     Check Accept Comunications
     Submit User Form
     Toast Message Should Be     Usuário cadastrado com sucesso!
+    Go To Home Page
+    User Should Be Visible  ${user}
     
     #temporário
     Sleep       1
@@ -35,10 +37,3 @@ Email incorreto
     Check Accept Comunications
     Submit User Form
     Toast Message Should Be     Oops! O email é inválido
-
-
-
-
-
-
-

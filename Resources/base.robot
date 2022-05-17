@@ -6,12 +6,15 @@ Library     String
 
 Resource    actions.robot
 
+*Variables*
+${BASE_URL}     https://yodapp-testing.vercel.app/     
+
 *Keywords*
 
 Start Session
     New Browser     chromium    headless=False  slowMo=00:00:00
     #New Page        https://yodapp.vercel.app
-    New page        https://yodapp-testing.vercel.app/
+    New page        ${BASE_URL}
 
 End Session
     Take Screenshot

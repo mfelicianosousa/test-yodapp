@@ -2,6 +2,13 @@
 Documentation   Ações customizadas do Yodapp
 
 *Keywords*
+Go To Home Page
+    Go To   ${BASE_URL}
+
+    Wait For Elements State     css=.carousel   visible     5
+
+
+
 Go To User Form
 
 
@@ -58,7 +65,19 @@ Submit User Form
 Toast Message Should Be
     [Arguments]     ${expected_message}
 
-    ${element}      Set Variable    css=.toast div    
+    ${element}      Set Variable    css=.toast div   
 
     Wait For Elements State     ${element}  visible     5
-    Get Text                    ${element} div  equal       ${expected_message}
+    Get Text                    ${element}  equal       ${expected_message}
+
+User Should Be Visible
+    [Arguments]     ${user}
+
+    ${element}      Set Variable    xpath=//td[contains(text(),"${user}[email]")]/..    
+
+    Wait For Elements State     ${element}  visible    5
+    Get Text    ${element}      contains    ${user}[name]
+    Get Text    ${element}      contains    ${user}[instagram]
+
+
+
